@@ -10,7 +10,7 @@ const DemoLine = () => {
 
   const asyncFetch = () => {
     fetch(
-      '/data.json'
+      '/csvjson.json'
     )
       .then((response) => response.json())
       .then((json) => setData(json))
