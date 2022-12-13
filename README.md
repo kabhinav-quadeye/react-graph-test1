@@ -1,1 +1,3 @@
-# react-graph-test1
+# react-sample-graphs
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-fsbzwy)
