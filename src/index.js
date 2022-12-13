@@ -28,6 +28,7 @@ const DemoLine = () => {
     //   type: 'datetime',
     // },
     yAxis: {},
+    interactions: [{ type: "marker-active" }, { type: "brush" }],	
     //slider: {
     //  start: 0,
     //  end: 1,
